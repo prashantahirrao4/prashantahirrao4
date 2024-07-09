@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/prashant-ahirrao-2a98b224b">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/techyrohan/">
+    <a href="(https://www.instagram.com/prashant_a_01)">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="https://webifyx.in">
